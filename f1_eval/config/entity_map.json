@@ -1,0 +1,5 @@
+{
+    "SYMPTOM": ["fever", "pain", "kuume", "kipu"],
+    "MEDICATION": ["aspirin", "ASA", "parasetamoli"],
+    "DATE": ["yesterday", "last Tuesday", "eilen"]
+}

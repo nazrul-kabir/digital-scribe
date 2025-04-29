@@ -1,0 +1,7 @@
+clinical_entities:
+  symptom:
+    f1: 0.82
+  medication:
+    f1: 0.91
+  date:
+    f1: 0.78
